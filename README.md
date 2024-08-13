@@ -1,8 +1,9 @@
 # vanilla-js-todo
 A pretty basic vanilla-js todolist webapp featuring a basic SQLite3 database and ExpressJS endpoints.
 
-## English
+# English
 Welcome to the Simple TodoList WebApp! 🌟 This is a straightforward application built with Node.js and SQLite3 to help you manage your daily tasks. Each user has their own space where they can log in, manage their tasks, and have their sessions persist between visits.
+
 
 ## Setup
 Clone the repository
@@ -13,10 +14,13 @@ git clone https://github.com/your-username/todolist-webapp.git
 ##Install the dependencies
 
 npm install
-#Start the server
 
+
+# Start the server
 
 node server.js
+
+
 # Features
 User Authentication: Register and log in to manage your personal todo list. 🔒
 Session Management: User sessions are stored in a local SQLite3 database, ensuring that your todos are linked to your account. 📦
