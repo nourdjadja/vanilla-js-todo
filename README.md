@@ -60,6 +60,9 @@ Gestion des tâches: Ajoutez, supprimez et affichez les tâches. Le middleware s
 
 ## Structure du projet
 server.js: Le fichier principal du serveur qui gère les routes et la configuration du serveur. 🌐
+
 public/: Contient les fichiers statiques comme HTML, CSS et JavaScript. 📁
+
 utils/: Contient des fonctions utilitaires comme le hachage des mots de passe. 🛠️
+
 Développé avec passion et café par NABD. ☕️
