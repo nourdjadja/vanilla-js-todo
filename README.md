@@ -39,12 +39,14 @@ Bienvenue dans la Simple TodoList WebApp ! 🌟 Il s'agit d'une application simp
 ## Installation
 Clonez le dépôt
 
-
 git clone https://github.com/votre-nom-utilisateur/todolist-webapp.git
-#Installez les dépendances
 
+
+## Installez les dépendances
 
 npm install
+
+
 ## Lancez le serveur
 
 node server.js
