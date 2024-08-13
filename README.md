@@ -11,22 +11,22 @@ Clone the repository
 git clone https://github.com/your-username/todolist-webapp.git
 
 
-##Install the dependencies
+## Install the dependencies
 
 npm install
 
 
-# Start the server
+## Start the server
 
 node server.js
 
 
-# Features
+## Features
 User Authentication: Register and log in to manage your personal todo list. 🔒
 Session Management: User sessions are stored in a local SQLite3 database, ensuring that your todos are linked to your account. 📦
 Task Management: Add, delete, and view tasks. The middleware ensures that tasks are correctly associated with the logged-in user. 📋
 
-# Project Structure
+## Project Structure
 server.js: The main server file that handles routes and server setup. 🌐
 public/: Contains static assets like HTML, CSS, and JavaScript. 📁
 utils/: Contains utility functions like password hashing. 🛠️
@@ -46,7 +46,6 @@ git clone https://github.com/votre-nom-utilisateur/todolist-webapp.git
 
 npm install
 ## Lancez le serveur
-
 
 node server.js
 
